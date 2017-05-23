@@ -1,0 +1,8 @@
+# Files
+*.DS_Store
+*.log
+
+# Directories
+.idea/
+node_modules/
+.sass-cache/

@@ -1,0 +1,22 @@
+{
+	"name": "paulogabriel-resume",
+	"version": "1.0.0",
+	"homepage": "https://paulonotz0r.github.io",
+	"authors": [
+		"Paulo Gabriel <pauloliveiragabriel@gmail.com> (https://github.com/paulonotz0r)"
+	],
+	"description": "Welcome to my Curriculum Vitae Resume",
+	"main": "scss/main.scss",
+	"keywords": [
+		"resume",
+		"sass",
+		"scss",
+		"responsive"
+	],
+	"license": "MIT",
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components"
+	]
+}
